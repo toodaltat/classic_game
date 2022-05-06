@@ -1,1 +1,3 @@
-read me
+This has been a start and stop project. Now with git hub and a wiser mind ill dilligently continue copying over the game by hand to futher my understanding of embeding code in python. A major goal for this project is to post this game to my website (base file ('..\.project\django_repo'))
+Other goals consist of becoming more fimilar with my IDE "pycharm" the syntax and logical structures that go along with it, also ill be in acting this project as if I was in a professional enviroment.
+So far I've found this project rewarding to my goal. I can achive on average 4 days consistently putting in 5 to 6 hours.
